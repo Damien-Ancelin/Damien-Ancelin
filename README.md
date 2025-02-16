@@ -49,5 +49,3 @@ Feel free to check out my repositories to see more of my work!
 - [Personal Website - Soon]()
 
 Thank you for visiting my profile!
-
-```` ▋
