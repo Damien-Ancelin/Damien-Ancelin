@@ -31,14 +31,23 @@ Here are some of the technologies and tools I work with:
 
 LocalExpress is an e-commerce platform for local sales built with a REST API and a Single Page Application (SPA). It incorporates modern web technologies and design patterns, including React, Redux, and Vite, to provide a seamless and efficient user experience.
 
-1. **Project Name 2**: A brief description of the project.
-2. **Project Name 3**: A brief description of the project.
+### ☕ O-Coffee
+[Check out the O-Coffee repository](https://github.com/Damien-Ancelin/O-Coffee)
+
+O-Coffee is a web application for coffee enthusiasts to explore and review different coffee blends. Built with a modern tech stack including React and Redux, it offers a user-friendly interface and robust backend support for a seamless experience.
+
+### 🐾 O-Pokedex
+[Check out the O-Pokedex repository](https://github.com/Damien-Ancelin/O-Pokedex)
+
+O-Pokedex is a comprehensive Pokémon database application providing detailed information on various Pokémon. Utilizing React and Redux for the frontend, and a REST API for the backend, it ensures a smooth and interactive user experience.
 
 Feel free to check out my repositories to see more of my work!
 
 ## 🤝 Let's Connect
 
-- [LinkedIn](www.linkedin.com/in/damien-ancelin)
-- [Personal Website - Soon](https://your-personal-website.com)
+- [LinkedIn](https://www.linkedin.com/in/damien-ancelin)
+- [Personal Website - Soon]()
 
 Thank you for visiting my profile!
+
+```` ▋
