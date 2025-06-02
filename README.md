@@ -27,8 +27,10 @@ Here are some of the technologies and tools I work with:
 ## 📝 Notable Projects
 
 ### 🕹 Gamer Challenges
-[Front](https://github.com/Damien-Ancelin/Gamer-Challenges-Front)
-[Back](https://github.com/Damien-Ancelin/Gamer-Challenges-Back)
+- [Front](https://github.com/Damien-Ancelin/Gamer-Challenges-Front)
+- [Back](https://github.com/Damien-Ancelin/Gamer-Challenges-Back)
+
+Gamer Challenges is a platform for gamers who want to push their limits and extend the experience of their favorite games. Users can create or take on challenges of all kinds and discover new ways to play. The platform is designed for passionate gamers, achievement seekers, and anyone curious to explore new gaming horizons. Join the community and go beyond what games usually offer!
 
 ### 🛒 LocalExpress
 [Check out the LocalExpress repository](https://github.com/Damien-Ancelin/LocalExpress)
