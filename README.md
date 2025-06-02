@@ -22,9 +22,13 @@ Here are some of the technologies and tools I work with:
 
 ## 📈 GitHub Stats
 
-![Damien's GitHub stats](https://github-readme-stats.vercel.app/api?username=Damien-Ancelin&show_icons=true&theme=radical)
+![Damien's GitHub stats](https://github-readme-stats.vercel.app/api?username=Damien-Ancelin)
 
 ## 📝 Notable Projects
+
+### 🕹 Gamer Challenges
+[Front](https://github.com/Damien-Ancelin/Gamer-Challenges-Front)
+[Back](https://github.com/Damien-Ancelin/Gamer-Challenges-Back)
 
 ### 🛒 LocalExpress
 [Check out the LocalExpress repository](https://github.com/Damien-Ancelin/LocalExpress)
