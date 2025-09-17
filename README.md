@@ -20,9 +20,9 @@ Here are some of the technologies and tools I work with:
 - 🧪 Testing: Vitest, Jest
 - 📐 Architecture & Patterns: REST API, SPA, SSR, MVC, BEM, Active Record
 
-## 📈 GitHub Stats
+## 📈 Codewars
 
-![Damien's GitHub stats](https://github-readme-stats.vercel.app/api?username=Damien-Ancelin)
+![Codewars stats](https://www.codewars.com/users/Damien-Ancelin/badges/large)
 
 ## 📝 Notable Projects
 
