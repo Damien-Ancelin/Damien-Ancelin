@@ -11,14 +11,14 @@ Bienvenue sur mon GitHub ! Développeur passionné, curieux de tout et toujours 
 
 ## 🛠️ Stack & Outils
 
-- 💻 Langages principaux : Node.js · JavaScript · PHP · HTML · CSS · Sass (7-1)
-- ⚙️ Frameworks / Librairies principales : Express · EJS · React
+- 💻 Langages principaux : Node.js · JavaScript / Typescript · PHP · SQL · HTML · CSS · Sass (7-1)
+- ⚙️ Frameworks / Librairies principales : Express · EJS · React · React native · Redux · GraphQL
 
 **Secondaire :**
-- 🧰 Outils : Git · Docker · SQL · Sequelize
+- 🧰 Outils : Git · Docker · CI/CD · Sequelize
 - 🗄️ BDD : MongoDB · PostgreSQL · Redis
 - 🧪 Tests : Vitest · Jest
-- 🏗️ Architectures & Patterns : REST API · SPA · SSR · MVC · BEM · Active Record
+- 🏗️ Architectures & Patterns : micro-services · REST API · SPA · SSR · MVC · MVVM · BEM · Active Record
 
 ## 📈 Codewars
 
