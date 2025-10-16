@@ -13,10 +13,10 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 
 Here are some of the technologies and tools I work with:
 
-- 🖥️ Languages: Node.js, JavaScript, HTML, CSS, Sass (architecture 7-1)
+- 🖥️ Languages: Node.js, JavaScript, PHP, HTML, CSS, Sass (architecture 7-1)
 - 🔧 Frameworks & Libraries: Express, EJS, React, React Router, Redux Toolkit
 - 🛠️ Tools & Technologies: Git, Docker, SQL, Sequelize
-- 💾 Databases: MongoDB, PostgreSQL
+- 💾 Databases: MongoDB, PostgreSQL, Redis
 - 🧪 Testing: Vitest, Jest
 - 📐 Architecture & Patterns: REST API, SPA, SSR, MVC, BEM, Active Record
 
@@ -24,7 +24,14 @@ Here are some of the technologies and tools I work with:
 
 ![Codewars stats](https://www.codewars.com/users/Damien-Ancelin/badges/large)
 
-## 📝 Notable Projects
+## 📝 Notable Projects | PHP
+
+### 🏦 myBank **In progress**
+[Check out the myBank repository](https://github.com/Damien-Ancelin/myBank)
+
+A simple banking application backend to manage accounts, loans, and transactions.
+
+## 📝 Notable Projects | Javascript / Typescript
 
 ### 🕹 Gamer Challenges
 - [Front](https://github.com/Damien-Ancelin/Gamer-Challenges-Front)
