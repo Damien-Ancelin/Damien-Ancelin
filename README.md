@@ -1,64 +1,74 @@
-# Hi there, I'm Damien Ancelin 👋
+# 👋 Salut, moi c'est Damien Ancelin
 
-Welcome to my GitHub profile! I'm a passionate developer with a love for coding and continuous learning.
+Bienvenue sur mon GitHub ! Développeur passionné, curieux de tout et toujours prêt à relever de nouveaux défis. 🚀
 
-## 🚀 About Me
+## 😎 À propos de moi
 
-- 🔭 Currently working on a variety of exciting projects.
-- 🌱 Always learning, exploring new technologies, and refining my skills.
-- 💬 Happy to help! Feel free to ask me anything about development.
-- 📫 Get in touch: [Here](mailto:ancelin.damien@gmail.com)
+- 👀 Actuellement à la recherche d’un emploi en tant que développeur fullstack !
+- 🌱 J’adore apprendre de nouvelles technos et améliorer mes skills.
+- 💬 Besoin d’aide ? Viens discuter dev avec moi !
+- 📫 Contact : [ancelin.damien@gmail.com](mailto:ancelin.damien@gmail.com)
 
-## ⚡ Technologies & Tools
+## 🛠️ Stack & Outils
 
-Here are some of the technologies and tools I work with:
+- 💻 Langages principaux : Node.js · JavaScript · PHP · HTML · CSS · Sass (7-1)
+- ⚙️ Frameworks / Librairies principales : Express · EJS · React
 
-- 🖥️ Languages: Node.js, JavaScript, PHP, HTML, CSS, Sass (architecture 7-1)
-- 🔧 Frameworks & Libraries: Express, EJS, React, React Router, Redux Toolkit
-- 🛠️ Tools & Technologies: Git, Docker, SQL, Sequelize
-- 💾 Databases: MongoDB, PostgreSQL, Redis
-- 🧪 Testing: Vitest, Jest
-- 📐 Architecture & Patterns: REST API, SPA, SSR, MVC, BEM, Active Record
+**Secondaire :**
+- 🧰 Outils : Git · Docker · SQL · Sequelize
+- 🗄️ BDD : MongoDB · PostgreSQL · Redis
+- 🧪 Tests : Vitest · Jest
+- 🏗️ Architectures & Patterns : REST API · SPA · SSR · MVC · BEM · Active Record
 
 ## 📈 Codewars
 
 ![Codewars stats](https://www.codewars.com/users/Damien-Ancelin/badges/large)
 
-## 📝 Notable Projects | PHP
+## 🔭 Projets marquants
 
-### 🏦 myBank **In progress**
-[Check out the myBank repository](https://github.com/Damien-Ancelin/myBank)
+### 🏦 myBank (PHP, PostgreSQL, Sqitch) **En cours**
+Une appli bancaire simplifiée pour gérer comptes, prêts et transactions.  
+[🔗 Accès au repo](https://github.com/Damien-Ancelin/myBank)
 
-A simple banking application backend to manage accounts, loans, and transactions.
+### 🕹 Gamer Challenges (JS/TS, React, Node.js, PostgreSQL, Redis, JWT, ACL)
+- [Frontend](https://github.com/Damien-Ancelin/Gamer-Challenges-Front)
+- [Backend](https://github.com/Damien-Ancelin/Gamer-Challenges-Back)
 
-## 📝 Notable Projects | Javascript / Typescript
+Plateforme pour gamers : crée ou relève des défis, découvre de nouvelles façons de jouer et partage tes exploits.  
+Stack moderne :
+- Frontend React (SPA)
+- Backend Node.js/Express
+- PostgreSQL & Redis pour la persistance et le cache
+- Authentification JWT
+- Gestion fine des droits (ACL)
+- API REST robuste pour la gestion des utilisateurs, défis, classements, etc.
 
-### 🕹 Gamer Challenges
-- [Front](https://github.com/Damien-Ancelin/Gamer-Challenges-Front)
-- [Back](https://github.com/Damien-Ancelin/Gamer-Challenges-Back)
+### 🛒 LocalExpress (React, Redux, Context, Sass, TypeScript, API externe)
+[🔗 Accès au repo](https://github.com/Damien-Ancelin/LocalExpress)
 
-Gamer Challenges is a platform for gamers who want to push their limits and extend the experience of their favorite games. Users can create or take on challenges of all kinds and discover new ways to play. The platform is designed for passionate gamers, achievement seekers, and anyone curious to explore new gaming horizons. Join the community and go beyond what games usually offer!
+Application e-commerce locale sous forme de Single Page Application (SPA) réalisée avec :
+- React
+- Redux
+- Context API
+- Sass
+- TypeScript
+- Utilisation d’une API existante pour la gestion des produits et commandes.
 
-### 🛒 LocalExpress
-[Check out the LocalExpress repository](https://github.com/Damien-Ancelin/LocalExpress)
+### ☕ O-Coffee (Node.js, Express, EJS)
+[🔗 Accès au repo](https://github.com/Damien-Ancelin/O-Coffee)
 
-LocalExpress is an e-commerce platform for local sales built with a REST API and a Single Page Application (SPA). It incorporates modern web technologies and design patterns, including React, Redux, and Vite, to provide a seamless and efficient user experience.
+Découvre, note et partage tes cafés préférés ! SSR, Express & EJS.
 
-### ☕ O-Coffee
-[Check out the O-Coffee repository](https://github.com/Damien-Ancelin/O-Coffee)
+### 🐾 O-Pokedex (Vanilla JS, REST API)
+[🔗 Accès au repo](https://github.com/Damien-Ancelin/O-Pokedex)
 
-O-Coffee is a web application for coffee enthusiasts to explore and review different coffee blends. Built with a modern tech stack including Express and EJS for server-side rendering (SSR), it offers a user-friendly interface and robust backend support for a seamless experience.
+Un Pokédex complet pour tout savoir sur tes Pokémon favoris. Front Vanilla JS, backend REST API.
 
-### 🐾 O-Pokedex
-[Check out the O-Pokedex repository](https://github.com/Damien-Ancelin/O-Pokedex)
+➡️ Explore mes repos pour voir d’autres projets cool !
 
-O-Pokedex is a comprehensive Pokémon database application providing detailed information on various Pokémon. Utilizing Vanilla JS for the frontend, and a REST API for the backend, it ensures a smooth and interactive user experience.
-
-Feel free to check out my repositories to see more of my work!
-
-## 🤝 Let's Connect
+## 🤝 Contacts & Réseaux
 
 - [LinkedIn](https://www.linkedin.com/in/damien-ancelin)
-- [Personal Website - Soon]()
+- 🌐 Site perso — bientôt dispo !
 
-Thank you for visiting my profile!
+Merci d’être passé sur mon profil ! 🚀
